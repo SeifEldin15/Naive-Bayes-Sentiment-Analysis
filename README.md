@@ -22,6 +22,7 @@ data/movie.csv: Sample data file for training and testing.
 ## Dependencies
 
 pandas
+
 scikit-learn
 
 ## License
