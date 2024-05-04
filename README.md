@@ -10,9 +10,9 @@ This repository contains code for sentiment analysis using the Naive Bayes class
 
 ## Usage
 
-1.Run python sentiment_analysis.py.
-2.Enter the path to the text file when prompted.
-3.The script will perform sentiment analysis and print the result.
+1. Run python sentiment_analysis.py.
+2. Enter the path to the text file when prompted.
+3. The script will perform sentiment analysis and print the result.
 
 ## Code Overview
 
